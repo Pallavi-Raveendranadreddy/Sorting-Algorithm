@@ -54,8 +54,8 @@ print(value)
 
 ## Output:
 ### SELECTION SORT:
-![output](./selection.png)
+![output](https://github.com/Pallavi-Raveendranadreddy/Sorting-Algorithm/blob/b9df3ddc62f73461b39cce8d4c0a6846ccbb1e29/selection.PNG)
 ### INSERTION SORT:
-![output](./insertion.png)
+![output](https://github.com/Pallavi-Raveendranadreddy/Sorting-Algorithm/blob/b9df3ddc62f73461b39cce8d4c0a6846ccbb1e29/insertion.PNG)
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
