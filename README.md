@@ -53,8 +53,9 @@ print(value)
 ```
 
 ## Output:
+### SELECTION SORT:
 ![output](./selection.png)
-
+### INSERTION SORT:
 ![output](./insertion.png)
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
